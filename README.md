@@ -8,5 +8,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpersener)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alpersener&repo=SpringBootProject)]
-(https://github.com/alpersener/SpringBootProject)
+
 
