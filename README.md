@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning Spring Boot
-- 📫 How to reach me:[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue)](https://www.linkedin.com/in/alpersener/)[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alpersener)
+- 📫 Contact:[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alpersener/)[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alpersener)
 
   
 
