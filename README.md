@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alper</h1>
 <h3 align="center">backend developer</h3>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot** and **Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
