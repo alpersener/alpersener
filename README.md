@@ -1,13 +1,9 @@
 <h1 align="center">HELLO THERE 👋</h1>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=950&pause=1000&color=F73391&random=false&width=435&lines=WELCOME+%F0%9F%91%8B;+I'm+Alper;Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+&size=27&duration=950&pause=1000&color=F73391&random=false&width=438&height=54&lines=WELCOME+%F0%9F%91%8B;I'm+Alper;Backend+Developer)](https://git.io/typing-svg)
 <img  align="right" width="315" src="https://github.com/alpersener/alpersener/assets/69325145/c2051b31-a12e-43ef-b027-0ac97abefe98">
 
-
-
-
-
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alpersener" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alpersener" height="30" width="40" /></a>
