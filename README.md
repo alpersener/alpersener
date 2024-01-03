@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Alper</h1>
-<h3 align="center">backend developer</h3>
+<h1 align="center">HELLO THERE 👋</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=950&pause=1000&color=F73391&random=false&width=435&lines=WELCOME+%F0%9F%91%8B;+I'm+Alper;Backend+Developer)](https://git.io/typing-svg)
+
+<hr>
 
 - 🌱 I’m currently learning **Spring Boot** and **Angular**
 
